@@ -1,4 +1,4 @@
-"C:\Users\Kazuma Nagatsuka\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\ClionProjects\omni_wheel_
+"C:\Users\Kazuma Nagatsuka\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\ClionProjects\omni_wheel_test
 -- Configuring done
 CMake Error at CMakeLists.txt:6 (add_executable):
   Cannot find source file:
@@ -7,7 +7,7 @@ CMake Error at CMakeLists.txt:6 (add_executable):
 
 
 CMake Error at CMakeLists.txt:6 (add_executable):
-  No SOURCES given to target: omni_wheel_
+  No SOURCES given to target: omni_wheel_test
 
 
 CMake Generate step failed.  Build files cannot be regenerated correctly.

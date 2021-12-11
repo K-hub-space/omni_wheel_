@@ -41,9 +41,9 @@ void wheel::motor_main(float direction, int power, float mod){
 
 //test
 int main() {
-    float direction = 53.8;
+    float direction = 53.8768;
     int power = 87;
-    float mod = 32.3;
+    float mod = 32.3657;
 
     wheel *w;
 
