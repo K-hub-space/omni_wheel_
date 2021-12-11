@@ -9,7 +9,7 @@ class wheel {
 public:
     wheel();
 
-    float motor_main(float direction, int power, float mod);
+    static void motor_main(float direction, int power, float mod);
 
 private:
 };
